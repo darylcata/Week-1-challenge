@@ -18,9 +18,9 @@ This webpage is an exercise to have the webpage optimized for search engines thu
 
 The page is responsive both keyboard and mouse navigation. CSS file is commented as what I see fit. 
 
-```md
+
 ![01-html-css-git-challenge-demo](https://user-images.githubusercontent.com/117319952/202870612-ba07964e-9dee-4816-bbf5-a5190d4043fc.png)
-```
+
 
 
 ## Credits!
